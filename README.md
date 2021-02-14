@@ -27,4 +27,4 @@ There is also a fully automatic mode, it collects the loader with all its files 
 To be fully functional, Xcode 11.7 must be installed, Xcode 12.X is also supported.
 
 
-To enable the debug mode of the program, you must specify -Debug, currently available only in the test version.
+To enable the debug mode of the program, you must specify -Debug, available since version 0.4.5.
